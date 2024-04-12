@@ -1,6 +1,6 @@
 <div align="center">
 <img crossorigin="anonymous" width="150"
-src="https://drive.lienuc.com/uc?id=19YCzF8rO6yLY_lzmODCml6sHmM7aRuO8" alt="Staff Management" />
+src="https://drive.lienuc.com/uc?id=19YCzF8rO6yLY_lzmODCml6sHmM7aRuO8" alt="Logo" />
 	<h1> Staff Management Test</h1>
 	<br>
 	<p>
@@ -33,7 +33,7 @@ Local Development Configurations
 ## Solution
 
 <img crossorigin="anonymous" width="400"
-src="https://drive.lienuc.com/uc?id=1g3CgOWTNn_eDds9525aoVS7i6HYTfbXs" alt="Staff Management" />
+src="https://drive.lienuc.com/uc?id=1g3CgOWTNn_eDds9525aoVS7i6HYTfbXs" alt="Solution" />
 
 ### Database
 
@@ -42,7 +42,7 @@ src="https://drive.lienuc.com/uc?id=1g3CgOWTNn_eDds9525aoVS7i6HYTfbXs" alt="Staf
 StaffManagementApp -> appsettings.json
 
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=1BF2WCQV8fxI0GFmFn8sDqGVVGAz67r9E" alt="Staff Management" />
+src="https://drive.lienuc.com/uc?id=1BF2WCQV8fxI0GFmFn8sDqGVVGAz67r9E" alt="Database Connection String" />
 
 2. Migrate Database
 
@@ -58,7 +58,7 @@ update-database
 
 You can view endpoints with swagger
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=10mrujvlXgHgL-edHvmWmHjpNaERRAowa" alt="Staff Management" />
+src="https://drive.lienuc.com/uc?id=10mrujvlXgHgL-edHvmWmHjpNaERRAowa" alt="Swagger API" />
 
 ### Web App
 
@@ -66,31 +66,31 @@ You can navicate pages
 
 1. Home page
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1kwMgb5XtetfLjUqZqJrD30VXLcEP7xiN" alt="Staff Management" />
+   src="https://drive.lienuc.com/uc?id=1kwMgb5XtetfLjUqZqJrD30VXLcEP7xiN" alt="Home page" />
 2. Staff information page
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=129UVDuuaAe-ZZoA2bkc4d1QaHcPiLJjA" alt="Staff Management" />
+   src="https://drive.lienuc.com/uc?id=129UVDuuaAe-ZZoA2bkc4d1QaHcPiLJjA" alt="Staff information page" />
 3. Advanced search page
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1hyxwn7yN7nBeYBcVzatdoQ-es4aHlwq5" alt="Staff Management" />
+   src="https://drive.lienuc.com/uc?id=1hyxwn7yN7nBeYBcVzatdoQ-es4aHlwq5" alt="Advanced search page" />
 4. Export as Excel file
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1Dt_xOfrzf4JwHHO6TT_KJrSHp6gvdUcn" alt="Staff Management" />
+   src="https://drive.lienuc.com/uc?id=1Dt_xOfrzf4JwHHO6TT_KJrSHp6gvdUcn" alt="Export as Excel file" />
 5. Export as PDF file
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1ksfCXvdR0083Gg-CnBGoiUZDMuTcxgzm" alt="Staff Management" />
+   src="https://drive.lienuc.com/uc?id=1ksfCXvdR0083Gg-CnBGoiUZDMuTcxgzm" alt="Export as PDF file" />
 
 ### Unit Tests
 
 You can perform Unit Testing with In Memory Database and pre-defined data seed.
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=1gP5K21t8jB2hRjRtSI6lzhX8UGXzvyjL" alt="Staff Management" />
+src="https://drive.lienuc.com/uc?id=1gP5K21t8jB2hRjRtSI6lzhX8UGXzvyjL" alt="Unit Tests" />
 
 ### Integration Tests
 
 You can perform Integration Testing with Testing Database and pre-defined data seed.
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=1sbq_6Lqzi1DBpKCPW9B9Yp-fZK56ULLd" alt="Staff Management" />
+src="https://drive.lienuc.com/uc?id=1sbq_6Lqzi1DBpKCPW9B9Yp-fZK56ULLd" alt="Integration Tests" />
 
 ## Technologies
 
