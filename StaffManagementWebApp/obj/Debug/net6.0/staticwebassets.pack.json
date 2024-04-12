@@ -1,0 +1,981 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StaffManagementWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StaffManagementWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\.editorconfig",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\.editorconfig"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\.gitignore",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\.gitignore"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\.jsdoc.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\.jsdoc.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\LICENSE",
+      "PackagePath": "staticwebassets\\vendor\\query-builder"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\README.md",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\README.md"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\build\\dist.mjs",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\build\\dist.mjs"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\build\\jsdoc.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\build\\jsdoc.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\build\\jsdoc.md",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\build\\jsdoc.md"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\build\\liveserver.mjs",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\build\\liveserver.mjs"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\css\\query-builder.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\css\\query-builder.dark.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\css\\query-builder.default.css",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\css\\query-builder.default.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.ar.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.ar.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.az.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.az.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.bg.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.bg.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.cs.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.cs.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.da.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.da.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.de.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.de.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.el.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.el.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.en.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.en.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.eo.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.eo.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.es.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.es.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.fa-IR.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.fa-IR.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.fr.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.fr.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.he.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.he.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.hu.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.hu.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.it.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.it.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.lt.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.lt.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.nl.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.nl.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.no.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.no.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.pl.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.pl.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.pt-BR.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.pt-BR.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.pt-PT.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.pt-PT.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.ro.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.ro.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.ru.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.ru.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.sk.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.sk.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.sq.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.sq.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.sv.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.sv.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.sw.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.sw.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.tr.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.tr.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.ua.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.ua.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\i18n\\query-builder.zh-CN.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\i18n\\query-builder.zh-CN.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\js\\query-builder.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\js\\query-builder.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\js\\query-builder.standalone.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\js\\query-builder.standalone.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\dark.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\dark.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\default.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\default.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\plugins\\bt-checkbox.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\plugins\\bt-checkbox.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\plugins\\bt-tooltip-errors.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\plugins\\bt-tooltip-errors.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\plugins\\filter-description.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\plugins\\filter-description.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\plugins\\invert.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\plugins\\invert.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\dist\\scss\\plugins\\sortable.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\dist\\scss\\plugins\\sortable.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\examples\\index-basic.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\examples\\index-basic.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\examples\\index-basic2.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\examples\\index-basic2.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\examples\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\examples\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\examples\\screenshot.png",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\examples\\screenshot.png"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\package.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\package.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\.wrapper.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\.wrapper.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\core.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\core.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\data.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\data.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\defaults.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\defaults.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\.wrapper.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\.wrapper.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\ar.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\ar.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\az.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\az.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\bg.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\bg.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\cs.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\cs.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\da.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\da.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\de.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\de.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\el.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\el.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\en.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\en.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\eo.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\eo.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\es.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\es.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\fa-IR.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\fa-IR.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\fr.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\fr.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\he.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\he.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\hu.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\hu.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\it.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\it.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\lt.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\lt.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\nl.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\nl.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\no.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\no.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\pl.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\pl.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\pt-BR.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\pt-BR.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\pt-PT.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\pt-PT.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\ro.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\ro.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\ru.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\ru.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\sk.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\sk.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\sq.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\sq.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\sv.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\sv.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\sw.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\sw.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\tr.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\tr.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\ua.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\ua.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\i18n\\zh-CN.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\i18n\\zh-CN.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\main.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\main.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\model.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\model.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\bt-checkbox\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\bt-checkbox\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\bt-checkbox\\plugin.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\bt-checkbox\\plugin.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\bt-selectpicker\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\bt-selectpicker\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\bt-tooltip-errors\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\bt-tooltip-errors\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\bt-tooltip-errors\\plugin.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\bt-tooltip-errors\\plugin.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\change-filters\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\change-filters\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen-selectpicker\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen-selectpicker\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\LICENSE.md",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen-sprite.png"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.css",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.min.css",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.proto.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\chosen.proto.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\composer.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\composer.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\chosen.png",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\chosen.png"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\init.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\init.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\init.proto.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\init.proto.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\oss-credit.png",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\oss-credit.png"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\prism.css",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\prism.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\prism.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\prism.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\prototype-1.7.0.0.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\prototype-1.7.0.0.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\style.css",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\docsupport\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\index.proto.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\index.proto.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\options.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\chosen_v1.8.7\\options.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\filter-description\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\filter-description\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\filter-description\\plugin.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\filter-description\\plugin.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\ar.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\ar.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\az.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\az.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\cs.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\cs.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\el.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\el.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\en.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\en.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\eo.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\eo.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\fr.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\fr.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\he.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\he.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\hu.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\hu.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\lt.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\lt.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\pl.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\pl.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\pt-BR.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\pt-BR.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\ru.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\ru.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\sk.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\sk.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\sv.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\sv.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\sw.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\sw.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\tr.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\tr.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\ua.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\ua.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\zh-CN.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\i18n\\zh-CN.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\invert\\plugin.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\invert\\plugin.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\mongodb-support\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\mongodb-support\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\en.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\en.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\eo.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\eo.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\fr.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\fr.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\he.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\he.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\hu.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\hu.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\lt.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\lt.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\ru.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\ru.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\sk.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\sk.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\sv.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\sv.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\sw.json",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\i18n\\sw.json"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\not-group\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\not-group\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\sortable\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\sortable\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\sortable\\plugin.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\sortable\\plugin.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\sql-support\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\sql-support\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\plugins\\unique-filter\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\plugins\\unique-filter\\plugin.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\public.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\public.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\scss\\dark.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\scss\\dark.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\scss\\default.scss",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\scss\\default.scss"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\template.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\template.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\src\\utils.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\src\\utils.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\common.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\common.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\core.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\core.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\data.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\data.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\plugins-gui.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\plugins-gui.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\plugins.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\plugins.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\plugins.mongo-support.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\plugins.mongo-support.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\plugins.not-group.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\plugins.not-group.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\plugins.sql-support.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\plugins.sql-support.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\tests\\utils.module.js",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\tests\\utils.module.js"
+    },
+    {
+      "Id": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\wwwroot\\vendor\\query-builder\\yarn.lock",
+      "PackagePath": "staticwebassets\\vendor\\query-builder\\yarn.lock"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StaffManagementWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StaffManagementWebApp.props",
+      "PackagePath": "build\\StaffManagementWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StaffManagementWebApp.props",
+      "PackagePath": "buildMultiTargeting\\StaffManagementWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StaffManagementWebApp.props",
+      "PackagePath": "buildTransitive\\StaffManagementWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

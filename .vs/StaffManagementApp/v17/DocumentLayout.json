@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\StaffManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D973A1-A9DC-432C-B9FB-23B624946138}|StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj|d:\\projects\\staffmanagementapp\\staffmanagementapp.unittests\\repository\\staffrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D973A1-A9DC-432C-B9FB-23B624946138}|StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj|solutionrelative:staffmanagementapp.unittests\\repository\\staffrepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D973A1-A9DC-432C-B9FB-23B624946138}|StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj|d:\\projects\\staffmanagementapp\\staffmanagementapp.unittests\\staffmanagementapp.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05D973A1-A9DC-432C-B9FB-23B624946138}|StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj|solutionrelative:staffmanagementapp.unittests\\staffmanagementapp.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98ACCA-2167-4DBE-A259-771451E2745A}|StaffManagementWebApp\\StaffManagementWebApp.csproj|d:\\projects\\staffmanagementapp\\staffmanagementwebapp\\applicationcores\\istaffapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98ACCA-2167-4DBE-A259-771451E2745A}|StaffManagementWebApp\\StaffManagementWebApp.csproj|solutionrelative:staffmanagementwebapp\\applicationcores\\istaffapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7606F8-1C82-4CBF-AF1F-66E78316AF4A}|StaffManagementApp\\StaffManagementApp.csproj|d:\\projects\\staffmanagementapp\\staffmanagementapp\\applicationcores\\domainservices\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7606F8-1C82-4CBF-AF1F-66E78316AF4A}|StaffManagementApp\\StaffManagementApp.csproj|solutionrelative:staffmanagementapp\\applicationcores\\domainservices\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98ACCA-2167-4DBE-A259-771451E2745A}|StaffManagementWebApp\\StaffManagementWebApp.csproj|d:\\projects\\staffmanagementapp\\staffmanagementwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98ACCA-2167-4DBE-A259-771451E2745A}|StaffManagementWebApp\\StaffManagementWebApp.csproj|solutionrelative:staffmanagementwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7606F8-1C82-4CBF-AF1F-66E78316AF4A}|StaffManagementApp\\StaffManagementApp.csproj|d:\\projects\\staffmanagementapp\\staffmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B7606F8-1C82-4CBF-AF1F-66E78316AF4A}|StaffManagementApp\\StaffManagementApp.csproj|solutionrelative:staffmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffRepositoryUnitTests.cs",
+              "DocumentMoniker": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\Repository\\StaffRepositoryUnitTests.cs",
+              "RelativeDocumentMoniker": "StaffManagementApp.UnitTests\\Repository\\StaffRepositoryUnitTests.cs",
+              "ToolTip": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\Repository\\StaffRepositoryUnitTests.cs",
+              "RelativeToolTip": "StaffManagementApp.UnitTests\\Repository\\StaffRepositoryUnitTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:53:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffManagementApp.UnitTests",
+              "DocumentMoniker": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+              "RelativeDocumentMoniker": "StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+              "ToolTip": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+              "RelativeToolTip": "StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T09:53:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStaffAPIServices.cs",
+              "DocumentMoniker": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\ApplicationCores\\IStaffAPIServices.cs",
+              "RelativeDocumentMoniker": "StaffManagementWebApp\\ApplicationCores\\IStaffAPIServices.cs",
+              "ToolTip": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\ApplicationCores\\IStaffAPIServices.cs",
+              "RelativeToolTip": "StaffManagementWebApp\\ApplicationCores\\IStaffAPIServices.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAIwO8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:18:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\StaffManagementApp\\StaffManagementApp\\ApplicationCores\\DomainServices\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "StaffManagementApp\\ApplicationCores\\DomainServices\\StaffRepository.cs",
+              "ToolTip": "D:\\Projects\\StaffManagementApp\\StaffManagementApp\\ApplicationCores\\DomainServices\\StaffRepository.cs",
+              "RelativeToolTip": "StaffManagementApp\\ApplicationCores\\DomainServices\\StaffRepository.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAqwM0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:18:47.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StaffManagementWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StaffManagementWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAkwMAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:18:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\StaffManagementApp\\StaffManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StaffManagementApp\\appsettings.json",
+              "ToolTip": "D:\\Projects\\StaffManagementApp\\StaffManagementApp\\appsettings.json",
+              "RelativeToolTip": "StaffManagementApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T09:13:03.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

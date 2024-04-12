@@ -1,0 +1,219 @@
+[
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "GetStaffs",
+    "RelativePath": "api/Staff",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[System.Collections.Generic.List\u00601[[StaffManagementApp.ApplicationCores.Models.DTOModels.DisplayStaffDTO, StaffManagementApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "PostStaff",
+    "RelativePath": "api/Staff",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staff",
+        "Type": "StaffManagementApp.ApplicationCores.Models.DTOModels.CreateStaffDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[StaffManagementApp.ApplicationCores.Models.DTOModels.DisplayStaffDTO, StaffManagementApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "GetStaff",
+    "RelativePath": "api/Staff/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[StaffManagementApp.ApplicationCores.Models.DTOModels.DisplayStaffDTO, StaffManagementApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "PutStaff",
+    "RelativePath": "api/Staff/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "staff",
+        "Type": "StaffManagementApp.ApplicationCores.Models.DTOModels.EditStaffDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[StaffManagementApp.ApplicationCores.Models.DTOModels.DisplayStaffDTO, StaffManagementApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "DeleteStaff",
+    "RelativePath": "api/Staff/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[StaffManagementApp.ApplicationCores.Models.DTOModels.DisplayStaffDTO, StaffManagementApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "SearchStaff",
+    "RelativePath": "api/Staff/AdvancedSearch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staff",
+        "Type": "StaffManagementApp.ApplicationCores.Models.DTOModels.SearchStaffDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[System.Collections.Generic.List\u00601[[StaffManagementApp.ApplicationCores.Models.DTOModels.DisplayStaffDTO, StaffManagementApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "ExportSearchStaffAsExcel",
+    "RelativePath": "api/Staff/ExportSearchExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staff",
+        "Type": "StaffManagementApp.ApplicationCores.Models.DTOModels.SearchStaffDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[System.Byte[], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "ExportSearchStaffAsPdf",
+    "RelativePath": "api/Staff/ExportSearchPdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "staff",
+        "Type": "StaffManagementApp.ApplicationCores.Models.DTOModels.SearchStaffDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StaffManagementApp.ApplicationCores.Models.BindingModels.ReturnRequestModel\u00601[[System.Byte[], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StaffManagementApp.Controllers.StaffController",
+    "Method": "KeepLive",
+    "RelativePath": "api/Staff/KeepLive",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

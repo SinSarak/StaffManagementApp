@@ -1,0 +1,35 @@
+﻿@using StaffManagementWebApp.ViewModels
+@model ReturnRequestModel<List<DisplayStaffViewModel>>
+@{
+    ViewData["Title"] = "Staff management";
+}
+<h1>All staff information</h1>
+<a href="/home/createstaff" class="btn btn-primary">Create staff</a>
+<br />
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<table class="table">
+    <thead>
+        <th>Id</th>
+        <th>Fullname</th>
+        <th>Gender</th>
+        <th>Birthday</th>
+        <th>Action</th>
+    </thead>
+    <tbody>
+        @foreach (var staff in Model.Data)
+        {
+            <tr>
+                <td>@staff.StaffId</td>
+                <td>@staff.FullName</td>
+                <td>@staff.GenderText</td>
+                <td>@staff.Birthday.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a class="btn btn-sm btn-success" href="/home/editstaff/@staff.StaffId">Edit</a>
+                    <a class="btn btn-sm btn-danger" href="/home/deletestaff/@staff.StaffId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

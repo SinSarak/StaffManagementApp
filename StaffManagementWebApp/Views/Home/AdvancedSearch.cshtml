@@ -1,0 +1,72 @@
+﻿@using StaffManagementWebApp.ViewModels
+@model SearchStaffModel
+@{
+    ViewData["Title"] = "Advanced search";
+    var listGender = ViewData["ListGender"] as List<IntStringPairObject>;
+    var RequestResult = ViewData["RequestResult"] as ReturnRequestModel<List<DisplayStaffViewModel>>;
+}
+<h1>@ViewData["Title"]</h1>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form method="get" action="/home/ExportExcel">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label class="control-label">StaffId</label>
+                <input type="text" class="form-control" asp-for="StaffId" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Gender</label>
+                <select class="form-control" name="Gender">
+                    <option value="0"></option>
+                    @foreach (var gender in listGender)
+                    {
+                        if (gender.Key == Model.Gender)
+                        {
+                            <option value="@gender.Key" selected>@gender.Value</option>
+                        }
+                        else
+                        {
+                            <option value="@gender.Key">@gender.Value</option>
+                        }
+                    }
+                </select>
+            </div>
+            
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label class="control-label">From date</label>
+                <input class="form-control" asp-for="FromDate" type="date" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">To date</label>
+                <input class="form-control" asp-for="ToDate" type="date" />
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Search" formaction="/home/AdvancedSearch" class="btn btn-primary" />
+                <input type="submit" value="Excel" formaction="/home/ExportExcel" class="btn btn-success" />
+                <input type="submit" value="PDF" formaction="/home/ExportPDF" class="btn btn-info" />
+            </div>
+        </div>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <th>Id</th>
+        <th>Fullname</th>
+        <th>Gender</th>
+        <th>Birthday</th>
+    </thead>
+    <tbody>
+        @foreach (var staff in RequestResult.Data)
+        {
+            <tr>
+                <td>@staff.StaffId</td>
+                <td>@staff.FullName</td>
+                <td>@staff.GenderText</td>
+                <td>@staff.Birthday.ToString("yyyy-MM-dd")</td>
+            </tr>
+        }
+    </tbody>
+</table>

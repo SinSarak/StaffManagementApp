@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "StaffManagementApp\\StaffManagementApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "StaffManagementWebApp\\StaffManagementWebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

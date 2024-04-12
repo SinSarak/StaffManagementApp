@@ -1,0 +1,52 @@
+﻿@using StaffManagementWebApp.ViewModels
+@model EditStaffModel
+@{
+    ViewData["Title"] = "Edit staff";
+    var listGender = ViewData["ListGender"] as List<IntStringPairObject>;
+}
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<form action="/home/editstaff" method="post" autocomplete="off">
+    @Html.AntiForgeryToken()
+    <input class="form-control" asp-for="StaffId" type="hidden" />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label class="control-label">Id</label>
+                <input type="text" class="form-control"  value="@Model.EditId" name="EditId" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Fullname</label>
+                <input class="form-control" asp-for="FullName" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Birthday</label>
+                
+                <input class="form-control" asp-for="Birthday" type="date"/>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Gender</label>
+                <select class="form-control" name="Gender">
+                    @foreach (var gender in listGender)
+                    {
+                        if (gender.Key == Model.Gender)
+                        {
+                            <option value="@gender.Key" selected>@gender.Value</option>
+                        }
+                        else
+                        {
+                            <option value="@gender.Key">@gender.Value</option>
+                        }
+
+                    }
+                </select>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+
+</form>

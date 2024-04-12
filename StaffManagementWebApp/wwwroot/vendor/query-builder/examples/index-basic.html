@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>jQuery QueryBuilder Example</title>
+
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" id="bt-theme">
+  <link rel="stylesheet" href="https://querybuilder.js.org/node_modules/bootstrap-select/dist/css/bootstrap-select.min.css">
+  <!-- <link rel="stylesheet" href="https://querybuilder.js.org/node_modules/chosenjs/chosen.css"> -->
+  <link rel="stylesheet" href="https://querybuilder.js.org/node_modules/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css">
+  <link rel="stylesheet" href="https://querybuilder.js.org/node_modules/bootstrap-slider/dist/css/bootstrap-slider.min.css">
+  <link rel="stylesheet" href="https://querybuilder.js.org/node_modules/selectize/dist/css/selectize.bootstrap3.css">
+
+  <link rel="stylesheet" href="https://querybuilder.js.org/node_modules/jQuery-QueryBuilder/dist/css/query-builder.default.css" id="qb-theme">
+  <!-- <link rel="stylesheet" href="http://mistic100.github.io/jQuery-QueryBuilder/assets/flags/flags.css"> -->
+
+  <style>
+    .flag {
+      display: inline-block;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+  <div class="col-md-12 col-lg-10 col-lg-offset-1">
+    <div class="page-header">
+      <a class="pull-right" href="https://github.com/mistic100/jQuery-QueryBuilder">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=48px>
+      </a>
+      <h1>jQuery QueryBuilder
+        <small>Example</small>
+      </h1>
+    </div>
+
+
+    <div id="builder"></div>
+
+    <div class="btn-group">
+        <button class="btn btn-warning"  id="btn-reset" data-target="basic">Reset</button>
+        <button class="btn btn-success set-json" id="btn-set" data-target="basic">Set rules</button>
+        <button class="btn btn-primary parse-json" id="btn-get" data-target="basic">Get rules</button>
+      </div>
+
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="https://querybuilder.js.org/node_modules/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+<!-- <script src="https://querybuilder.js.org/node_modules/chosenjs/chosen.jquery.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.3.0/bootbox.min.js"></script>
+<script src="https://querybuilder.js.org/node_modules/bootstrap-slider/dist/bootstrap-slider.min.js"></script>
+<script src="https://querybuilder.js.org/node_modules/selectize/dist/js/standalone/selectize.min.js"></script>
+<!-- <script src="https://querybuilder.js.org/node_modules/jquery-extendext/jquery-extendext.js"></script> -->
+<script src="https://querybuilder.js.org/node_modules/sql-parser-mistic/browser/sql-parser.min.js"></script>
+<script src="https://querybuilder.js.org/node_modules/interactjs/dist/interact.min.js"></script>
+
+<script src="https://querybuilder.js.org/node_modules/jQuery-QueryBuilder/dist/js/query-builder.standalone.js"></script>
+
+<script>
+    var rules_basic = {
+  condition: 'AND',
+  rules: [{
+    id: 'price',
+    operator: 'less',
+    value: 10.25
+  }, {
+    condition: 'OR',
+    rules: [{
+      id: 'category',
+      operator: 'equal',
+      value: 2
+    }, {
+      id: 'category',
+      operator: 'equal',
+      value: 1
+    }]
+  }]
+};
+
+$('#builder').queryBuilder({
+  plugins: ['bt-tooltip-errors'],
+  
+  filters: [{
+    id: 'name',
+    label: 'Name',
+    type: 'string'
+  }, {
+    id: 'category',
+    label: 'Category',
+    type: 'integer',
+    input: 'select',
+    values: {
+      1: 'Books',
+      2: 'Movies',
+      3: 'Music',
+      4: 'Tools',
+      5: 'Goodies',
+      6: 'Clothes'
+    },
+    operators: ['equal', 'not_equal', 'in', 'not_in', 'is_null', 'is_not_null']
+  }, {
+    id: 'in_stock',
+    label: 'In stock',
+    type: 'integer',
+    input: 'radio',
+    values: {
+      1: 'Yes',
+      0: 'No'
+    },
+    operators: ['equal']
+  }, {
+    id: 'price',
+    label: 'Price',
+    type: 'double',
+    validation: {
+      min: 0,
+      step: 0.01
+    }
+  }, {
+    id: 'id',
+    label: 'Identifier',
+    type: 'string',
+    placeholder: '____-____-____',
+    operators: ['equal', 'not_equal'],
+    validation: {
+      format: /^.{4}-.{4}-.{4}$/
+    }
+  }],
+
+  rules: rules_basic
+});
+
+$('#btn-reset').on('click', function() {
+  $('#builder').queryBuilder('reset');
+});
+
+$('#btn-set').on('click', function() {
+  $('#builder').queryBuilder('setRules', rules_basic);
+});
+
+$('#btn-get').on('click', function() {
+  var result = $('#builder').queryBuilder('getRules');
+  
+  if (!$.isEmptyObject(result)) {
+    alert(JSON.stringify(result, null, 2));
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿@using StaffManagementWebApp.ViewModels
+@model DisplayStaffViewModel
+@{
+    ViewData["Title"] = "Delete staff";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<form action="/home/deletestaff" method="post" autocomplete="off">
+    @Html.AntiForgeryToken()
+    <input class="form-control" asp-for="StaffId" type="hidden" />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label class="control-label">Id</label>
+                <p class="font-weight-bold">@Model.StaffId</p>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Fullname</label>
+                <p class="font-weight-bold">@Model.FullName</p>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Birthday</label>
+                <p class="font-weight-bold">@Model.Birthday.ToString("yyyy-MM-dd")</p>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Gender</label>
+                <p class="font-weight-bold">@Model.GenderText</p>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Delete" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+
+</form>
