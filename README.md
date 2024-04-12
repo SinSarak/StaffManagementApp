@@ -33,7 +33,7 @@ Local Development Configurations
 ## Solution
 
 <img crossorigin="anonymous" width="400"
-src="https://drive.lienuc.com/uc?id=1g3CgOWTNn_eDds9525aoVS7i6HYTfbXs" alt="Solution" />
+src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/Solution_Panel.png" alt="Solution" />
 
 ### Database
 
@@ -42,7 +42,7 @@ src="https://drive.lienuc.com/uc?id=1g3CgOWTNn_eDds9525aoVS7i6HYTfbXs" alt="Solu
 StaffManagementApp -> appsettings.json
 
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=1BF2WCQV8fxI0GFmFn8sDqGVVGAz67r9E" alt="Database Connection String" />
+src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/ConnString.png" alt="Database Connection String" />
 
 2. Migrate Database
 
@@ -58,7 +58,7 @@ update-database
 
 You can view endpoints with swagger
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=10mrujvlXgHgL-edHvmWmHjpNaERRAowa" alt="Swagger API" />
+src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/swagger.png" alt="Swagger API" />
 
 ### Web App
 
@@ -66,31 +66,31 @@ You can navicate pages
 
 1. Home page
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1kwMgb5XtetfLjUqZqJrD30VXLcEP7xiN" alt="Home page" />
+   src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/webmenu.png" alt="Home page" />
 2. Staff information page
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=129UVDuuaAe-ZZoA2bkc4d1QaHcPiLJjA" alt="Staff information page" />
+   src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/web_staffinfo.png" alt="Staff information page" />
 3. Advanced search page
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1hyxwn7yN7nBeYBcVzatdoQ-es4aHlwq5" alt="Advanced search page" />
+   src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/web_searchstaff.png" alt="Advanced search page" />
 4. Export as Excel file
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1Dt_xOfrzf4JwHHO6TT_KJrSHp6gvdUcn" alt="Export as Excel file" />
+   src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/web_exportexcel.png" alt="Export as Excel file" />
 5. Export as PDF file
    <img crossorigin="anonymous"
-   src="https://drive.lienuc.com/uc?id=1ksfCXvdR0083Gg-CnBGoiUZDMuTcxgzm" alt="Export as PDF file" />
+   src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/web_exportpdf.png" alt="Export as PDF file" />
 
 ### Unit Tests
 
 You can perform Unit Testing with In Memory Database and pre-defined data seed.
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=1gP5K21t8jB2hRjRtSI6lzhX8UGXzvyjL" alt="Unit Tests" />
+src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/unittest.png" alt="Unit Tests" />
 
 ### Integration Tests
 
 You can perform Integration Testing with Testing Database and pre-defined data seed.
 <img crossorigin="anonymous"
-src="https://drive.lienuc.com/uc?id=1sbq_6Lqzi1DBpKCPW9B9Yp-fZK56ULLd" alt="Integration Tests" />
+src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/integrationtest.png" alt="Integration Tests" />
 
 ## Technologies
 
