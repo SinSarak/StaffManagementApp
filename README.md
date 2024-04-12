@@ -1,6 +1,6 @@
 <div align="center">
 <img crossorigin="anonymous" width="150"
-src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/Logo.png" alt="Logo" />
+src="https://github.com/SinSarak/StaffManagementApp/blob/main/ReadMeResource/Logo.jpg" alt="Logo" />
 	<h1> Staff Management </h1>
 	<br>
 	<p>
