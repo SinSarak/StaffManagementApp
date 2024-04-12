@@ -1,7 +1,7 @@
 <div align="center">
 <img crossorigin="anonymous" width="150"
 src="https://drive.lienuc.com/uc?id=19YCzF8rO6yLY_lzmODCml6sHmM7aRuO8" alt="Logo" />
-	<h1> Staff Management Test</h1>
+	<h1> Staff Management </h1>
 	<br>
 	<p>
 		<b>An open source and free platform to launch your own staff management</b>
