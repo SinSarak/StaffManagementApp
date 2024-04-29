@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpNVv0yWGO3bc4kdItO2RUEv8rJLN+x5OWcHmss+un4yFAj8US2vpZtc/ENPpkPk/pirMEs7huFIbM+jPRcYtA==",
+  "dgSpecHash": "IzDJZfU3TLG5GuHBTTZSlFIc573xrJrgnljC5Ziz3rea/tpEh46iSlxujKccg2zPzEoMQiKdkwvcFEvNIijnZg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+  "projectFilePath": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssarak\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ssarak\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

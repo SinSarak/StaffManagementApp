@@ -1142,11 +1142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\StaffManagementWebApp.csproj",
+      "projectUniqueName": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementWebApp\\StaffManagementWebApp.csproj",
       "projectName": "StaffManagementWebApp",
-      "projectPath": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\StaffManagementWebApp.csproj",
+      "projectPath": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementWebApp\\StaffManagementWebApp.csproj",
       "packagesPath": "C:\\Users\\ssarak\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\StaffManagementApp\\StaffManagementWebApp\\obj\\",
+      "outputPath": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"

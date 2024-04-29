@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaffManagementApp", "Staff
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaffManagementWebApp", "StaffManagementWebApp\StaffManagementWebApp.csproj", "{9E98ACCA-2167-4DBE-A259-771451E2745A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffManagementApp.UnitTests", "StaffManagementApp.UnitTests\StaffManagementApp.UnitTests.csproj", "{05D973A1-A9DC-432C-B9FB-23B624946138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaffManagementApp.UnitTests", "StaffManagementApp.UnitTests\StaffManagementApp.UnitTests.csproj", "{05D973A1-A9DC-432C-B9FB-23B624946138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffManagementApp.IntegrationTests", "StaffManagementApp.IntegrationTests\StaffManagementApp.IntegrationTests.csproj", "{DDDAD80F-C141-401F-B82C-E4C24C94A30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaffManagementApp.IntegrationTests", "StaffManagementApp.IntegrationTests\StaffManagementApp.IntegrationTests.csproj", "{DDDAD80F-C141-401F-B82C-E4C24C94A30F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CB847E3-425D-4025-B2F8-F1FF3B18DBBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

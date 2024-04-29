@@ -12968,11 +12968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+      "projectUniqueName": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
       "projectName": "StaffManagementApp.UnitTests",
-      "projectPath": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
+      "projectPath": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementApp.UnitTests\\StaffManagementApp.UnitTests.csproj",
       "packagesPath": "C:\\Users\\ssarak\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\StaffManagementApp\\StaffManagementApp.UnitTests\\obj\\",
+      "outputPath": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementApp.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -12994,8 +12994,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\StaffManagementApp\\StaffManagementApp\\StaffManagementApp.csproj": {
-              "projectPath": "D:\\Projects\\StaffManagementApp\\StaffManagementApp\\StaffManagementApp.csproj"
+            "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementApp\\StaffManagementApp.csproj": {
+              "projectPath": "D:\\Projects\\Temp\\StaffManagementApp\\StaffManagementApp\\StaffManagementApp.csproj"
             }
           }
         }
